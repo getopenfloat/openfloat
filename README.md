@@ -25,7 +25,7 @@ Discover skins, bid in auctions and buy or sell at a fixed price. OpenFloat is a
 
 ## Status
 
-OpenFloat is in early development. The marketplace is not live yet, and these features are planned. Star the repo to follow along, or explore the [project documentation](https://github.com/getopenfloat/documentation).
+OpenFloat is in early development. The marketplace is not live yet, and these features are planned. Star the repo to follow along.
 
 ## Team
 
