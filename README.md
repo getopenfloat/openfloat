@@ -9,6 +9,7 @@
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License: MIT"></a>
+  <a href="https://github.com/getopenfloat/openfloat/stargazers"><img src="https://img.shields.io/github/stars/getopenfloat/openfloat" alt="GitHub stars"></a>
 </p>
 
 Discover skins, bid in auctions and buy or sell at a fixed price. OpenFloat is a marketplace we are building in the open.
