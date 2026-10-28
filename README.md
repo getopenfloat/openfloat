@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/logo-full.png" alt="OpenFloat" width="480">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-full-dark.svg">
+    <img src="assets/logo-full.png" alt="OpenFloat" width="480">
+  </picture>
 </p>
 
 <h3 align="center">An open-source marketplace for Counter-Strike 2 items.</h3>
@@ -14,7 +17,6 @@ Discover skins, bid in auctions and buy or sell at a fixed price. OpenFloat is a
 
 - **Open source:** A marketplace others can learn from and build on.
 - **Made for collectors:** Find items by float, paint seed, exterior and more.
-- **Accessible:** Create a local inventory or import from Steam. Steam is optional.
 
 ## Status
 
