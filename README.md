@@ -20,6 +20,12 @@
 
 Discover skins, bid in auctions and buy or sell at a fixed price. OpenFloat is a marketplace we are building in the open.
 
+<p align="center">
+  <img src="assets/market-concept.svg" alt="Concept design for the OpenFloat marketplace" width="900">
+  <br>
+  <em>Early design concept. The marketplace is still in development.</em>
+</p>
+
 ## Why OpenFloat?
 
 - **Open source:** A marketplace others can learn from and build on.
