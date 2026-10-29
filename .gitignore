@@ -1,0 +1,4 @@
+.devenv/
+.direnv/
+.env
+__pycache__/
