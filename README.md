@@ -18,9 +18,7 @@
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"></a>
 </p>
 
-Discover skins, bid in auctions and buy or sell them.
-
-OpenFloat is a marketplace we are building in the open.
+Discover, buy, sell and auction CS2 skins on an open-source marketplace.
 
 <p align="center">
   <img src="assets/market-concept.svg" alt="Concept design for the OpenFloat marketplace" width="900">
